@@ -6,4 +6,4 @@ console.log("Atividade Semestre")
 claudio = String(prompt("Você gosta do claudio? (S/N)"))
 nome = String(prompt("E qual é o seu nome?"))
 
-alert("Então fodasi "+nome+ " ngm gosta do cláudio")
+alert("Então fodasi "+nome+ " , ngm gosta do cláudio, APENAS O SEBA E O JONATHAS")
