@@ -1,0 +1,23 @@
+header{
+    background-color:#003049;
+    border-radius: 5px;
+    text-align: center;
+    padding: 3px;
+}
+.texto-cabecalho{
+    color: #fdf0d5;
+}
+.fundo{
+    background-color: #669bbc;
+}
+.lista{
+    background-color: #fdf0d5;
+    padding: 2%;
+    text-decoration: none;
+}
+footer{
+    background-color:#003049;
+    border-radius: 5px;
+    text-align: center;
+    padding: 3px;
+}
